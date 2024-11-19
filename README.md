@@ -12,3 +12,7 @@ Introducing **"Cold Mail"**. Yeah, just cold mail... Does it guarantee you a job
 4. This should direct you to Gmail with pre-filled data. (A small victory. Maybe. Or maybe it's just another empty inbox.)
 
 Hope at least this will help you find a job. Maybe. Or maybe you’ll just send a bunch of emails into the void, never to hear from anyone. Who knows? The world is a mystery.
+
+![Screen-Recording-VEED](https://github.com/user-attachments/assets/215ab1ff-a134-4ff0-a596-f7bc954054a8)
+
+OOP got rejection already
